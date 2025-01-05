@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a1"
+  },
+  "studio": "Pierrot",
+  "poster": "/images/pierrot.png",
+  "founded": 1979,
+  "description": "One of Japan's most influential animation studios, Pierrot is renowned for producing long-running series like Naruto, Bleach, and Black Clover. The studio pioneered techniques in combining traditional and digital animation, specializing in action-packed shonen series. Their work is characterized by consistent quality across long-format anime and ability to handle complex battle animations."
+},
+{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a2"
+  },
+  "studio": "Toei Animation",
+  "poster": "/images/toei_animation.png",
+  "founded": 1948,
+  "description": "Japan's oldest and largest animation studio, Toei Animation revolutionized the anime industry with assembly-line animation techniques. Known for iconic series like Dragon Ball, One Piece, and Sailor Moon, they pioneered many conventions of modern anime. The studio maintains multiple concurrent long-running series while consistently delivering high production values."
+},
+{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a3"
+  },
+  "studio": "Wit Studio / MAPPA",
+  "poster": "/images/mappa.png",
+  "founded": 2012,
+  "description": "Two powerhouse studios known for cutting-edge animation. Wit Studio made its mark with Attack on Titan's dynamic 3D maneuver gear sequences. MAPPA, taking over later seasons, is known for fluid action scenes and detailed character animation. Both studios push technical boundaries in digital animation while maintaining strong artistic vision."
+},
+{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a4"
+  },
+  "studio": "Bones",
+  "poster": "/images/bones.png",
+  "founded": 1998,
+  "description": "Founded by former Sunrise staff, Bones is celebrated for their exceptional action choreography and visual creativity. Known for My Hero Academia, Fullmetal Alchemist: Brotherhood, and Mob Psycho 100, they consistently deliver high-quality original animation with distinctive visual styles. The studio specializes in adapting complex source material while maintaining artistic integrity."
+},
+{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a5"
+  },
+  "studio": "Madhouse",
+  "poster": "/images/madhouse.png",
+  "founded": 1972,
+  "description": "A legendary studio known for sophisticated storytelling and high production values. Creators of Death Note, Hunter x Hunter (2011), and One Punch Man Season 1, Madhouse is renowned for their meticulous attention to detail and ability to handle mature themes. They excel in creating atmospheric scenes and dynamic action sequences."
+},
+{
+  "_id": {
+    "$oid": "67795824e038b6423413a1a6"
+  },
+  "studio": "A-1 Pictures",
+  "poster": "/images/a-1_pictures.png",
+  "founded": 2005,
+  "description": "A subsidiary of Sony Music Entertainment Japan, A-1 Pictures has become a major force in modern anime. Known for Sword Art Online and Your Lie in April, they excel in adapting light novels and manga. The studio is notable for their consistent quality across different genres and strong integration of CGI with traditional animation."
+},
+{
+  "_id": {
+    "$oid": "677963557ebf9695b722169f"
+  },
+  "studio": "New Studio",
+  "founded": 2018,
+  "poster": "/images/placeholder.jpg"
+}]

@@ -1,0 +1,145 @@
+[
+    {
+        "title": "Naruto",
+        "year": 2002,
+        "episodes": 220,
+        "rating": 8.2,
+        "poster": "/images/naruto.png",
+        "description": "Set in a world of ninja villages, this series follows Naruto Uzumaki, an orphaned ninja who carries the Nine-Tailed Fox demon sealed within him. Ostracized by his village, he strives to become the Hokage - the strongest ninja and leader of the Hidden Leaf Village. The story spans his growth from a mischievous academy student to a powerful ninja, exploring themes of friendship, determination, and the cycle of hatred, while featuring complex ninja techniques and chakra-based combat systems.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19e",
+            "6779581be038b6423413a19f"
+        ],
+        "studioId": "67795824e038b6423413a1a1"
+    },
+    {
+        "title": "One Piece",
+        "year": 1999,
+        "episodes": 1070,
+        "rating": 8.9,
+        "poster": "/images/one_piece.png",
+        "description": "In a vast world dominated by oceans, this epic follows Monkey D. Luffy, a young pirate with the power to stretch his body like rubber after eating a Devil Fruit. Leading the Straw Hat Pirates, he searches for the legendary One Piece treasure left by the former Pirate King, Gol D. Roger. The series explores complex themes of freedom, justice, and friendship through elaborate world-building, featuring unique islands, diverse cultures, and a deep political landscape involving the World Government and rival pirate crews.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19e",
+            "6779581be038b6423413a19f"
+        ],
+        "studioId": "67795824e038b6423413a1a2"
+    },
+    {
+        "title": "Dragon Ball Z",
+        "year": 1989,
+        "episodes": 291,
+        "rating": 8.7,
+        "poster": "/images/dragon_ball_z.png",
+        "description": "Following the adventures of Goku as an adult, this series dramatically expands the scope of the original Dragon Ball. As an alien Saiyan warrior, Goku and his allies defend Earth from increasingly powerful threats, including the Saiyans, Frieza's empire, artificial androids, and magical beings. The series revolutionized the action-anime genre with its focus on martial arts, energy-based attacks, and power transformations, while exploring themes of self-improvement and surpassing limitations.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19e"
+        ],
+        "studioId": "67795824e038b6423413a1a2"
+    },
+    {
+        "title": "Attack on Titan",
+        "year": 2013,
+        "episodes": 87,
+        "rating": 9.1,
+        "poster": "/images/attack_on_titan.png",
+        "description": "Set in a world where humanity lives within enormous walls to protect themselves from man-eating Titans, this dark series follows Eren Yeager and his friends in the Survey Corps. What begins as a straightforward tale of survival evolves into a complex political thriller with deep moral ambiguity, exploring themes of freedom, racism, war, and the cycle of violence. The series is renowned for its intricate plot twists, military tactics, and unique vertical maneuvering equipment used to fight Titans",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19a",
+            "6779581be038b6423413a19b",
+            "6779581be038b6423413a19e"
+        ],
+        "studioId": "67795824e038b6423413a1a3"
+    },
+    {
+        "title": "My Hero Academia",
+        "year": 2016,
+        "episodes": 138,
+        "rating": 8.4,
+        "poster": "/images/my_hero_academia.png",
+        "description": "In a society where 80% of the population has developed superpowers called 'Quirks,' this series follows Izuku Midoriya, born without powers but gifted with the powerful One For All Quirk by the world's greatest hero, All Might. Attending U.A. High School to become a professional hero, Izuku faces various villains, rival students, and personal challenges while exploring themes of legacy, responsibility, and what it means to be a hero in a superhuman society.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19e",
+            "6779581be038b6423413a19f"
+        ],
+        "studioId": "67795824e038b6423413a1a4"
+    },
+    {
+        "title": "Death Note",
+        "year": 2006,
+        "episodes": 37,
+        "rating": 8.9,
+        "poster": "/images/death_note.png",
+        "description": "This psychological thriller follows Light Yagami, a brilliant high school student who discovers a supernatural notebook that allows him to kill anyone by writing their name. As he attempts to create a crime-free world through murder, he enters a complex cat-and-mouse game with L, a genius detective. The series explores moral ambiguity, justice, and corruption of power through intricate psychological warfare and complex ethical dilemmas.",
+        "genreId": [
+            "6779581be038b6423413a19a",
+            "6779581be038b6423413a19c",
+            "6779581be038b6423413a19d"
+        ],
+        "studioId": "67795824e038b6423413a1a5"
+    },
+    {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2009,
+        "episodes": 64,
+        "rating": 9.1,
+        "poster": "/images/fullmetal_alchemist_brotherhood.png",
+        "description": "Following the manga faithfully, this series tells the story of Edward and Alphonse Elric, two alchemist brothers who attempt human transmutation to resurrect their mother, resulting in devastating consequences. Their journey to restore their bodies uncovers a nationwide conspiracy involving philosophical stones, homunculi, and forbidden alchemy. The series masterfully balances action, politics, and philosophy while exploring themes of equivalent exchange, scientific ethics, and family bonds.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19b",
+            "6779581be038b6423413a19e"
+        ],
+        "studioId": "67795824e038b6423413a1a5"
+    },
+    {
+        "title": "Sword Art Online",
+        "year": 2012,
+        "episodes": 96,
+        "rating": 7.6,
+        "poster": "/images/sword_art_online.png",
+        "description": "When players become trapped in a virtual reality MMORPG called Sword Art Online, death in the game means death in real life. The series follows Kirito, a skilled player navigating through various virtual worlds while building relationships and uncovering the dark truth behind these virtual reality technologies. The story explores the increasingly thin line between virtual and physical reality, featuring detailed gaming mechanics and addressing themes of identity in digital spaces.",
+        "genreId": [
+            "6779581be038b6423413a19b",
+            "6779581be038b6423413a19d",
+            "6779581be038b6423413a19e",
+            "6779581be038b6423413a19f"
+        ],
+        "studioId": "67795824e038b6423413a1a6"
+    },
+    {
+        "title": "Tokyo Ghoul",
+        "year": 2014,
+        "episodes": 48,
+        "rating": 7.8,
+        "poster": "/images/tokyo_ghoul.png",
+        "description": "Set in an alternate Tokyo where flesh-eating ghouls live among humans in secret, the story follows Ken Kaneki's transformation from human to half-ghoul after a near-fatal encounter. As he struggles with his new identity, he becomes involved in the complex politics between ghouls and humans, including the CCG (Commission of Counter Ghoul) organization. The series explores themes of identity, discrimination, and the moral complexity of survival.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19a",
+            "6779581be038b6423413a19c",
+            "6779581be038b6423413a19e"
+        ],
+        "studioId": "67795824e038b6423413a1a1"
+    },
+    {
+        "title": "Hunter x Hunter",
+        "year": 2011,
+        "episodes": 148,
+        "rating": 9.0,
+        "poster": "/images/hunter_x_hunter.png",
+        "description": "This series follows Gon Freecss, a young boy who discovers his father is a legendary Hunter - an elite member of humanity who tracks down treasures, beasts, and even other humans. As Gon trains to become a Hunter himself, he forms deep friendships and faces increasingly complex challenges. The series is known for its unique power system called Nen, intricate story arcs, and sophisticated approach to shonen themes, featuring complex character motivations and moral ambiguity.",
+        "genreId": [
+            "6779581be038b6423413a199",
+            "6779581be038b6423413a19b",
+            "6779581be038b6423413a19e",
+            "6779581be038b6423413a19f"
+        ],
+        "studioId": "67795824e038b6423413a1a5"
+    }
+]

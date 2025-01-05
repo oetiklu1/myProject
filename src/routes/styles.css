@@ -1,0 +1,116 @@
+/* Allgemeine Stile */
+body {
+  background-color: #0d0d0d; /* Dunkler Hintergrund für Cyberpunk-Stil */
+  color: #00ffcc; /* Neon-Schriftfarbe */
+  font-family: 'Orbitron', sans-serif; /* Futuristische Schriftart */
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none; /* Entfernt Unterstreichungen */
+  color: #ff00ff; /* Neon-Akzentfarbe */
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+a:hover {
+  color: #00ffff; /* Hellere Neon-Akzentfarbe beim Hover */
+  text-decoration: underline; /* Unterstreichung beim Hover */
+}
+
+/* Navbar */
+.navbar {
+  padding: 1rem 2rem;
+  background-color: #0d0d0d; /* Dunkler Hintergrund */
+  border-bottom: 2px solid #ff00ff; /* Neon-Akzentfarbe als Linie */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Stärkere Schatten */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  color: #ff00ff; /* Neon-Akzentfarbe für den Logo-Text */
+  text-transform: uppercase;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  color: #00ffcc;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #00ffff; /* Hellere Neon-Akzentfarbe beim Hover */
+}
+
+/* Hauptinhalt */
+.main-content {
+  background: #1a1a1a; /* Dunkler Hauptbereich */
+  border-radius: 10px; /* Sanfte Abrundung */
+  color: #00ffcc; /* Neon-Schriftfarbe */
+  max-width: 1200px; /* Begrenzte Breite */
+  margin: 2rem auto; /* Zentrierung */
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.7); /* Stärkere Schatten für 3D-Effekt */
+  padding: 2rem; /* Innenabstand */
+  animation: fadeIn 0.5s ease-in-out; /* Animation beim Laden */
+}
+
+/* Footer */
+.footer {
+  background: #0d0d0d; /* Dunkler Hintergrund */
+  color: #00ffcc; /* Neon-Schriftfarbe */
+  font-size: 0.9rem; /* Angenehme Schriftgröße */
+  padding: 1.5rem 0;
+  text-align: center;
+  border-top: 2px solid #ff00ff; /* Neon-Akzentlinie */
+}
+
+/* Buttons */
+.btn {
+  background-color: #ff00ff; /* Neon-Akzentfarbe */
+  color: #0d0d0d; /* Dunkler Text */
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #00ffff; /* Hellere Neon-Akzentfarbe */
+  transform: scale(1.05); /* Leichter Zoom beim Hover */
+}
+
+/* Animationen */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.8rem 1rem;
+  }
+
+  .main-content {
+    padding: 1.5rem;
+  }
+
+  .footer {
+    font-size: 0.8rem;
+    padding: 1rem;
+  }
+}

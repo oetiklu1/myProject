@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6779581be038b6423413a199"
+  },
+  "genre": "Shounen",
+  "description": "Primary demographic for teenage boys aged 12-18, characterized by coming-of-age stories, strong themes of friendship and perseverance, action-packed battles, and power progression systems. Notable for tournament arcs, training sequences, and protagonists overcoming increasingly difficult challenges."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19a"
+  },
+  "genre": "Seinen",
+  "description": "Aimed at adult men 18+, featuring complex narratives, mature themes, psychological depth, and realistic character development. Often includes sophisticated political elements, moral ambiguity, and explicit content, with emphasis on nuanced storytelling over action."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19b"
+  },
+  "genre": "Fantasy",
+  "description": "Incorporates elements beyond our physical reality, including magic systems, mythical creatures, and alternate worlds. Features detailed world-building, established magical rules and limitations, and often blends traditional fantasy elements with Japanese cultural aspects."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19c"
+  },
+  "genre": "Psychological",
+  "description": "Explores characters' mental states, cognitive processes, and emotional development. Frequently uses unreliable narrators, mental conflicts, and complex character motivations. Often includes psychological warfare, moral dilemmas, and examination of human nature."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19d"
+  },
+  "genre": "Supernatural",
+  "description": "Focuses on phenomena outside natural law, including yokai, spirits, demons, and supernatural abilities. Combines traditional Japanese folklore with modern storytelling, featuring unique power systems and the interaction between mundane and supernatural worlds."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19e"
+  },
+  "genre": "Action",
+  "description": "Emphasizes dynamic combat sequences, martial arts, and physical confrontation. Known for detailed fight choreography, special attacks, and power scaling. Often includes training arcs, strategic battles, and sophisticated combat systems."
+},
+{
+  "_id": {
+    "$oid": "6779581be038b6423413a19f"
+  },
+  "genre": "Adventure",
+  "description": "Centers on exploration, discovery, and journey narratives. Features world travel, treasure hunting, and character growth through experiences. Often includes detailed world-building, varied settings, and episodic storytelling within larger narrative arcs."
+},
+{
+  "_id": {
+    "$oid": "6779635d7ebf9695b72216a0"
+  },
+  "genre": "New Genre",
+  "description": "New Genre"
+}]
