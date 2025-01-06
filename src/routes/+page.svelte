@@ -14,7 +14,7 @@
       <h1>
         <span class="glitch" data-text="AniBuddy">AniBuddy</span>
       </h1>
-      <p class="cyber-subtitle">Your Gateway to Anime Excellence</p>
+      <p class="cyber-subtitle">Your Gateway to the World of Anime</p>
       <div class="cta-container">
       </div>
     </div>
