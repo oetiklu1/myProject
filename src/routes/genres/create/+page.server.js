@@ -14,6 +14,6 @@ export const actions = {
     if (!result) {
       throw error(500, 'Failed to create genre');
     }
-    throw redirect(303, '/genres');
+    throw redirect(303, `/genres/${result}`);
   }
 };

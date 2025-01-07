@@ -7,13 +7,14 @@ export const actions = {
     const studio = {
       studio: data.get('studio'),
       founded: parseInt(data.get('founded')),
-      poster: data.get('poster')
+      poster: data.get('poster'),
+      description: data.get('description')
     };
     
     const result = await db.createStudio(studio);
     if (!result) {
       throw error(500, 'Failed to create studio');
     }
-    throw redirect(303, '/studios');
+    throw redirect(303, `/studios/${result}`);
   }
 };

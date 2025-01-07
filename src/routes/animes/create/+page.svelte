@@ -8,7 +8,7 @@
 </script>
 
 <div class="container">
-  <h2 class="black-text mb-4">Add New Anime</h2>
+  <h2 class="black-text mb-4">Create New Anime</h2>
   
   <div class="cyber-card">
     <div class="card-body">

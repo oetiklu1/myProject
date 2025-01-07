@@ -30,6 +30,8 @@
         </li>
         <li class="nav-item">
           <a class="nav-link text-uppercase fw-bold" href="/studios">Studios</a>
+          <li class="nav-item">
+          <a class="nav-link text-uppercase fw-bold" href="/dashboard">Dashboard</a>
         </li>
       </ul>
     </div>
