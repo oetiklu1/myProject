@@ -1,4 +1,4 @@
-import { MongoClient } from 'mongodb';
+import { MongoClient, ObjectId } from 'mongodb';
 import { DB_URI } from '$env/static/private';
 
 export async function load() {
@@ -18,7 +18,9 @@ export async function load() {
         // Convert MongoDB documents to serializable objects
         const animes = animesRaw.map(anime => ({
             ...anime,
-            _id: anime._id.toString()
+            _id: anime._id.toString(),
+            studioId: anime.studioId.toString(),
+            genreId: anime.genreId.map(id => id.toString())
         }));
 
         const genres = genresRaw.map(genre => ({
